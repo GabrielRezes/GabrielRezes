@@ -1,5 +1,5 @@
 # Olá, eu sou Gabriel Rezes. 👋🤓 ##
-### Entrei no Mundo Espetacular da Programação. 🚀🚀🚀 ###
+
 #### Graduação em andamento no curso Análise e Desenvolvimento de Sistemas. 📚👨‍💻📚 ####
 
 #### Languages and Tools : ####
