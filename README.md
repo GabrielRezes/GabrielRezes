@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Rezes. 👋🤓 ##
 
-#### Graduação em andamento no curso Análise e Desenvolvimento de Sistemas. 📚👨‍💻📚 ####
+#### Formado em Análise e Desenvolvimento de Sistemas. 📚👨‍💻📚 ####
 
 ##
   
